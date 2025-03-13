@@ -1,0 +1,13 @@
+git remote add upstream link ng main repo
+git branch -a
+git fetch upstream
+git branch -a
+gawa ng sariling branch na develop
+git checkout -b develop upstream/develop
+git branch
+kada feature ibang branch
+hindi na kailangan ng upstream basta nasa develop branch
+push commit pangalan ng branch
+click compareand pull req
+base main base feature
+create pull
